@@ -6,6 +6,8 @@ Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio vario.
 
 2-layer PCB sized for Hammond 1551K 80x40x20 enclosure.
 
+All SMD passive components use Kicad hand-solderable footprints.
+
 [PDF Schematic](espc3-vario-schematic.pdf)
 
 ## Top
@@ -13,8 +15,6 @@ Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio vario.
 
 ## Bottom
 <img src="docs/bottom.png">
-
-
 
 
 ## Modules
