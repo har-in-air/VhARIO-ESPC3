@@ -4,7 +4,7 @@ The 'h' is silent, but the vario speaks ...
 
 Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 Bluetooth audio vario.
 
-2-layer PCB sized for Hammond 1551K 80x40x20 enclosure.
+2-layer PCB sized for [Hammond 1551K 80x40x20 mm enclosure.](docs/1551K.pdf)
 
 All SMD passive components use Kicad hand-solderable footprints.
 
