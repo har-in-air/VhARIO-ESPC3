@@ -1,17 +1,14 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
-C3,1uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,10.5,5.5,-90,top
-C13,100nF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,69.9,9.65,0,top
-C14,22uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,64,18,90,top
-C15,22uF,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,57.45,27.35,180,top
-F1,SMD0805-05,Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder,60,16.5,180,top
-J1,conn_pgm,pgm_conn_hn,1.7,32.4,90,top
-J2,conn_bat,smd_conn2_hn,71.75,24.8,90,top
-Q1,AO3401A,SOT-23_Handsoldering,31.4,29.8,90,top
-R1,2K7,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,14,6.6,180,top
-R7,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,31.35,25.9,180,top
-R8,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,49.35,1.85,0,top
-R10,10K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,16,4,0,top
-R15,2K2,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,62.5,27.5,-90,top
-R16,2K,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,64.55,21.8,180,top
-U2,ESPC3-12F C3FN4,espc3fn4_hn,9.05,10.05,90,top
-U5,MCP73831-2-OT,SOT-23-5_HandSoldering,60,23,-90,top
+"C3","1uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",10.500000,5.500000,-90.000000,top
+"C13","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",69.900000,9.650000,0.000000,top
+"C14","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",62.700000,18.750000,0.000000,top
+"C15","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",57.650000,27.350000,180.000000,top
+"F1","nSMD075","Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder",62.650000,16.050000,180.000000,top
+"Q1","AO3401A","SOT-23_Handsoldering",31.400000,29.800000,90.000000,top
+"R1","2K7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",14.000000,6.600000,180.000000,top
+"R7","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",31.350000,25.900000,180.000000,top
+"R8","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",49.350000,1.850000,0.000000,top
+"R10","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",16.000000,4.000000,0.000000,top
+"R15","2K2","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",62.500000,27.500000,-90.000000,top
+"R16","2K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",64.550000,21.800000,180.000000,top
+"U5","MCP73831-2-OT","SOT-23-5_HandSoldering",60.000000,23.000000,-90.000000,top

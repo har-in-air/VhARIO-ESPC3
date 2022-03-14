@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/home/hari/Documents/kicad/projects/espc3-vario/espc3-vario.kicad_sch</source>
-    <date>Fri Mar 11 11:45:56 2022</date>
-    <tool>Eeschema 6.99.0-unknown-58b8d63ff8~148~ubuntu20.04.1</tool>
+    <date>Mon Mar 14 09:36:57 2022</date>
+    <tool>Eeschema 6.99.0-unknown-455e330f3b~148~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
@@ -36,7 +36,11 @@
     <comp ref="C1">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -45,7 +49,11 @@
     <comp ref="C2">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -54,7 +62,11 @@
     <comp ref="C3">
       <value>1uF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C28323</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C28323"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -63,7 +75,11 @@
     <comp ref="C4">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -72,7 +88,11 @@
     <comp ref="C5">
       <value>100uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C15008</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C15008"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -81,7 +101,11 @@
     <comp ref="C6">
       <value>100uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C15008</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C15008"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -90,7 +114,11 @@
     <comp ref="C7">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -99,7 +127,11 @@
     <comp ref="C8">
       <value>22uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C5672</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C5672"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -108,7 +140,11 @@
     <comp ref="C9">
       <value>22uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C5672</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C5672"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -117,7 +153,11 @@
     <comp ref="C10">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -126,7 +166,11 @@
     <comp ref="C11">
       <value>22uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C5672</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C5672"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -135,7 +179,11 @@
     <comp ref="C12">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -144,7 +192,11 @@
     <comp ref="C13">
       <value>100nF</value>
       <footprint>00_project_footprints:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C49678</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C49678"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -153,7 +205,11 @@
     <comp ref="C14">
       <value>22uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C5672</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C5672"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -162,7 +218,11 @@
     <comp ref="C15">
       <value>22uF</value>
       <footprint>00_project_footprints:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C5672</field>
+      </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="LCSC" value="C5672"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -171,7 +231,11 @@
     <comp ref="D1">
       <value>1N5819WS</value>
       <footprint>00_project_footprints:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C191023</field>
+      </fields>
       <libsource lib="Device" part="D_Schottky" description="Schottky diode"/>
+      <property name="LCSC" value="C191023"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -180,7 +244,11 @@
     <comp ref="D2">
       <value>BLUE</value>
       <footprint>00_project_footprints:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C189307</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C189307"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -189,7 +257,11 @@
     <comp ref="D3">
       <value>BV03C</value>
       <footprint>00_project_footprints:D_SOD-323_HandSoldering</footprint>
+      <fields>
+        <field name="LCSC">C51125</field>
+      </fields>
       <libsource lib="Device" part="D_TVS" description="Bidirectional transient-voltage-suppression diode"/>
+      <property name="LCSC" value="C51125"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -198,7 +270,11 @@
     <comp ref="D4">
       <value>RED</value>
       <footprint>00_project_footprints:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C138549</field>
+      </fields>
       <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="LCSC" value="C138549"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -207,7 +283,11 @@
     <comp ref="F1">
       <value>nSMD075</value>
       <footprint>00_project_footprints:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C70078</field>
+      </fields>
       <libsource lib="Device" part="Polyfuse" description="Resettable fuse, polymeric positive temperature coefficient"/>
+      <property name="LCSC" value="C70078"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -261,7 +341,11 @@
     <comp ref="L1">
       <value>GZ2012D601TF</value>
       <footprint>00_project_footprints:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1017</field>
+      </fields>
       <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="LCSC" value="C1017"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -270,7 +354,11 @@
     <comp ref="L2">
       <value>GZ2012D601TF</value>
       <footprint>00_project_footprints:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C1017</field>
+      </fields>
       <libsource lib="Device" part="L_Ferrite" description="Inductor with ferrite core"/>
+      <property name="LCSC" value="C1017"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -280,7 +368,11 @@
       <value>AO3401A</value>
       <footprint>00_project_footprints:SOT-23_Handsoldering</footprint>
       <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+      </fields>
       <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C15127"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -290,7 +382,11 @@
       <value>2N7002</value>
       <footprint>00_project_footprints:SOT-23_Handsoldering</footprint>
       <datasheet>https://www.onsemi.com/pub/Collateral/BSS138-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C8545</field>
+      </fields>
       <libsource lib="Transistor_FET" part="BSS138" description="50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"/>
+      <property name="LCSC" value="C8545"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -299,7 +395,11 @@
     <comp ref="R1">
       <value>2K7</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17530</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17530"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -308,7 +408,11 @@
     <comp ref="R2">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -317,7 +421,11 @@
     <comp ref="R3">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -326,7 +434,11 @@
     <comp ref="R4">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -335,7 +447,11 @@
     <comp ref="R5">
       <value>2K7</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17530</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17530"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -344,7 +460,11 @@
     <comp ref="R6">
       <value>2K2</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17520</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17520"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -353,7 +473,11 @@
     <comp ref="R7">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -362,7 +486,11 @@
     <comp ref="R8">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -371,7 +499,11 @@
     <comp ref="R9">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -380,16 +512,24 @@
     <comp ref="R10">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b0e002dd-b1fa-41a7-b5d3-8a6b1ac4a333</tstamps>
     </comp>
     <comp ref="R11">
-      <value>5K1</value>
+      <value>5K1 1%</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -398,16 +538,24 @@
     <comp ref="R12">
       <value>10K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17724</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17724"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e5216bdf-971d-4210-8abd-e4e0711c3247</tstamps>
     </comp>
     <comp ref="R13">
-      <value>5K1</value>
+      <value>5K1 1%</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C27834</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C27834"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -416,7 +564,11 @@
     <comp ref="R14">
       <value>2K2</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17520</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17520"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -425,7 +577,11 @@
     <comp ref="R15">
       <value>2K2</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17520</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17520"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -434,7 +590,11 @@
     <comp ref="R16">
       <value>2K</value>
       <footprint>00_project_footprints:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder</footprint>
+      <fields>
+        <field name="LCSC">C17604</field>
+      </fields>
       <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="LCSC" value="C17604"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -493,7 +653,11 @@
       <value>TLV75533PDBV</value>
       <footprint>00_project_footprints:SOT-23-5_HandSoldering</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/tlv755p.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C404027</field>
+      </fields>
       <libsource lib="Regulator_Linear" part="TLV75533PDBV" description="500mA Low Dropout Voltage Regulator, Fixed Output 3.3V, SOT-23-5"/>
+      <property name="LCSC" value="C404027"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -503,7 +667,11 @@
       <value>74HC240PWR</value>
       <footprint>00_project_footprints:SSOP-20_4.4x6.5mm_P0.65mm</footprint>
       <datasheet>https://assets.nexperia.com/documents/data-sheet/74HC_HCT240.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C470968</field>
+      </fields>
       <libsource lib="74xx" part="74HC240" description="8-bit Buffer/Line Driver 3-state Inverting"/>
+      <property name="LCSC" value="C470968"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -513,7 +681,11 @@
       <value>MCP73831-2-OT</value>
       <footprint>00_project_footprints:SOT-23-5_HandSoldering</footprint>
       <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/20001984g.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C424093</field>
+      </fields>
       <libsource lib="Battery_Management" part="MCP73831-2-OT" description="Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"/>
+      <property name="LCSC" value="C424093"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="espc3-vario.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
@@ -901,6 +1073,9 @@
     </libpart>
   </libparts>
   <libraries>
+    <library logical="00_hari">
+      <uri>/home/hari/Documents/kicad/libraries/hari.kicad_sym</uri>
+    </library>
     <library logical="74xx">
       <uri>/usr/share/kicad-nightly/symbols//74xx.kicad_sym</uri>
     </library>
