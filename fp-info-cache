@@ -1,4 +1,4 @@
-20155899982355898
+20160840053511736
 00_project_footprints
 C_0805_2012Metric_Pad1.18x1.45mm_HandSolder
 Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
@@ -17,6 +17,13 @@ capacitor handsolder
 D_SOD-323_HandSoldering
 SOD-323
 SOD-323
+0
+2
+2
+00_project_footprints
+Fuse_0805_2012Metric_Pad1.15x1.40mm_HandSolder
+Fuse SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+fuse handsolder
 0
 2
 2
@@ -77,6 +84,13 @@ SSOP 0.65
 20
 20
 00_project_footprints
+button_hn
+
+
+0
+2
+2
+00_project_footprints
 cjmcu_117_hn
 
 
@@ -97,6 +111,13 @@ pgm_conn_hn
 0
 3
 3
+00_project_footprints
+piezo_hn
+
+
+0
+2
+2
 00_project_footprints
 smd_btn4_hn
 

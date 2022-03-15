@@ -6,12 +6,12 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "C6","100uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",-22.400000,16.000000,180.000000,bottom
 "C7","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-16.500000,16.500000,-90.000000,bottom
 "C8","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",-40.200000,9.550000,180.000000,bottom
-"C9","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",-17.100000,21.350000,90.000000,bottom
-"C10","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-22.000000,10.650000,180.000000,bottom
+"C9","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",-16.550000,21.350000,90.000000,bottom
+"C10","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-25.450000,10.100000,0.000000,bottom
 "C11","22uF","C_1206_3216Metric_Pad1.33x1.80mm_HandSolder",-21.450000,13.000000,180.000000,bottom
 "C12","100nF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",-10.900000,14.900000,0.000000,bottom
-"D1","1N5819WS","D_SOD-323_HandSoldering",-21.000000,22.450000,0.000000,bottom
-"D2","BLUE","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-21.000000,27.050000,90.000000,bottom
+"D1","1N5819WS","D_SOD-323_HandSoldering",-20.400000,22.400000,0.000000,bottom
+"D2","BLUE","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-22.350000,27.100000,90.000000,bottom
 "D3","BV03C","D_SOD-323_HandSoldering",-20.000000,6.500000,90.000000,bottom
 "D4","RED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-65.000000,25.000000,-90.000000,bottom
 "L1","GZ2012D601TF","L_0805_2012Metric_Pad1.15x1.40mm_HandSolder",-41.950000,28.500000,0.000000,bottom
@@ -21,7 +21,6 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R3","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-33.000000,14.650000,90.000000,bottom
 "R4","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-14.000000,16.500000,-90.000000,bottom
 "R5","2K7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-15.000000,13.000000,0.000000,bottom
-"R6","2K2","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-22.050000,30.500000,0.000000,bottom
 "R9","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-27.350000,19.000000,90.000000,bottom
 "R11","5K1","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-71.500000,15.900000,0.000000,bottom
 "R12","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",-10.850000,19.750000,180.000000,bottom

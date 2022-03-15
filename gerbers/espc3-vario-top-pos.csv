@@ -6,7 +6,8 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "F1","nSMD075","Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder",62.650000,16.050000,180.000000,top
 "Q1","AO3401A","SOT-23_Handsoldering",31.400000,29.800000,90.000000,top
 "R1","2K7","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",14.000000,6.600000,180.000000,top
-"R7","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",31.350000,25.900000,180.000000,top
+"R6","2K2","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",23.250000,30.550000,0.000000,top
+"R7","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",31.400000,25.900000,180.000000,top
 "R8","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",49.350000,1.850000,0.000000,top
 "R10","10K","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",16.000000,4.000000,0.000000,top
 "R15","2K2","R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",62.500000,27.500000,-90.000000,top
