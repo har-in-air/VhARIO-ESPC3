@@ -34,3 +34,7 @@ Only SMD parts on bottom layer in JLCPCB `Basic Parts` library were populated fo
 * Soft-switched power on/off
 
 You can find the firmware [here](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO).
+
+# Credits
+
+PCBA and prototype design in collaboration with Benoit Arnal.
