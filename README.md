@@ -37,4 +37,5 @@ You can find the firmware [here](https://github.com/har-in-air/ESP32C3_BLUETOOTH
 
 # Credits
 
-PCBA and prototype design in collaboration with Benoit Arnal.
+Prototype design, component sourcing and PCB assembly in collaboration with Benoit Arnal.
+ 
