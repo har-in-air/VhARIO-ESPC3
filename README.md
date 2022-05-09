@@ -22,7 +22,9 @@ Only SMD parts on bottom layer in JLCPCB `Basic Parts` library were populated fo
 
 <img src="docs/IMG_5385.jpg">
 
-<img src="docs/IMG_5386.jpg">
+<img src="docs/proto0.jpg">
+<img src="docs/proto1.jpg">
+<img src="docs/proto2.jpg">
 
 
 ## Hardware
