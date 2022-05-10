@@ -12,23 +12,6 @@ All SMD passive components use Kicad hand-solderable footprints.
 
 You can find the firmware [here](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO).
 
-## Top
-<img src="docs/top.png">
-
-## Bottom
-<img src="docs/bottom.png">
-
-## PCBA from JLCPCB
-
-Only SMD parts on bottom layer in JLCPCB `Basic Parts` library were populated for cost reasons. 
-
-<img src="docs/IMG_5385.jpg">
-
-<img src="docs/proto0.jpg">
-<img src="docs/proto1.jpg">
-<img src="docs/proto2.jpg">
-
-
 ## Hardware
 
 * AI-Thinker  ESP-C3 12F module (C3FN4).
@@ -38,6 +21,28 @@ Only SMD parts on bottom layer in JLCPCB `Basic Parts` library were populated fo
 * MCP73871 battery charger @ 500mA max, via USB-C connector.
 * Soft-switched power on/off.
 * "No activity" timeout power-off.
+
+## PCB Top
+<img src="docs/top.png">
+
+## PCB Bottom
+<img src="docs/bottom.png">
+
+## PCB Assembly by JLCPCB
+
+For cost reasons, only SMD parts on bottom layer in JLCPCB "Basic Parts" library were selected for automated PCB assembly.
+
+<img src="docs/IMG_5385.jpg">
+
+## Bringup
+<img src="docs/proto0.jpg">
+
+## Final Assembly
+<img src="docs/proto1.jpg">
+
+## Completed Vario with debug/flash port and connector
+<img src="docs/proto2.jpg">
+
 
 
 # Credits
