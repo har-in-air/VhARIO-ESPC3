@@ -1,8 +1,8 @@
 Designator,Footprint,Quantity,Value,LCSC Part #
-SW2,sk12d07vg3,1,DBG,
 U1,cjmcu117,1,cjmcu117,
-J1,usb_c_16,1,USB_C,
 U3,espc3fn4,1,espc3fn4,
+SW2,sk12d07vg3,1,DBG,
+J1,usb_c_16,1,USB_C,
 J2,JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical,1,Battery,
 F1,Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder,1,nSMD100-16,
 D6,D_SOD-323_HandSoldering,1,BV03C,

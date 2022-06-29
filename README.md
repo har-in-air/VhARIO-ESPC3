@@ -4,6 +4,8 @@ The 'h' is silent, but the vario speaks ...
 
 Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio vario. 
 
+<img src="docs/layout.png">
+
 Uses a Kalman filter to fuse acceleration data and pressure altitude data for 'zero-lag' variometer response.
 
 Configured via Wi-Fi web page.
