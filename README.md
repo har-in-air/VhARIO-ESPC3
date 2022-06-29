@@ -31,7 +31,7 @@ A previous revision (Rev A) of the hardware can be found in the releases section
 * Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a switchable jumper/spdt switch to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
 * For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
 * For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
-* The firmware is compiled with a selectable #define configuration option to select Rev A or Rev B hardware.
+* The firmware is compiled with configuration options in the `platformio.ini` file to select Rev A or Rev B hardware.
 
 
 ## Hardware
