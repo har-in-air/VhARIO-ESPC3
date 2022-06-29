@@ -30,6 +30,7 @@ A previous revision (Rev A) of the hardware can be found in the releases section
 * Rev B is a Kicad 6 project ( 6.0.6 as of date). Rev A was unfortunately developed with Kicad 6.99 branch which broke the project file format w.r.t. Kicad 6. The Rev A project can only be opened with Kicad 6.99 build 2022 Jan 26 or later.
 * Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a switchable jumper/spdt switch to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
 * For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
+* For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
 * The firmware is compiled with a selectable #define configuration option to select Rev A or Rev B hardware.
 
 
