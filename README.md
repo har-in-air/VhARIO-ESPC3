@@ -1,40 +1,18 @@
-# VhARIO-ESPC3
+# VhARIO-ESPC3 Rev B
 
-Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio vario. 
+Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio variometer. The vario uses a Kalman filter to fuse acceleration data and pressure altitude data for 'zero-lag' response. You can find the firmware source code [here](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO).
 
 <img src="docs/layout.png">
 
-Uses a Kalman filter to fuse acceleration data and pressure altitude data for 'zero-lag' variometer response.
+2-layer PCB sized for [Hammond 1551K 80x40x20 mm enclosure](docs/1551K.pdf).
 
-Configured via Wi-Fi web page.
-
-Optional Bluetooth transmission of $LK8EX1 sentences to interface with apps like [XCTrack](https://xctrack.org).
+Li-poly battery recharging via USB-C.
 
 ESP32-C3 flash and debug via built-in USB serial jtag peripheral and USB C interface.
 
-Li-poly battery with recharging via USB-C.
-
-2-layer PCB sized for [Hammond 1551K 80x40x20 mm enclosure.](docs/1551K.pdf)
-
 All SMD passive components use Kicad hand-solderable footprints.
 
-Apart from the ESP32-C3 module, IMU breakout board, battery connector and flash/debug switch, all SMD components are on one side of the board. This is to facilitate automated PCB assembly. 
-
-To accommodate higher capacity batteries in the enclosure, specify a thinner PCB (1.0mm or 1.2mm). 
-
-[Schematic PDF](docs/vhario-espc3-schematic.pdf)
-
-You can find the firmware [here](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO).
-
-A previous revision (Rev A) of the hardware can be found in the releases section.
-
-## Differences between Rev A and Rev B
-* Rev B is a Kicad 6 project (6.0.6 as of date). Rev A was unfortunately developed with the Kicad 6.99 development branch. This is incompatible with the Kicad 6 project file format. The Rev A project can only be opened with a Kicad 6.99 development build from 2022 Jan 26 or later.
-* Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a jumper or spdt switch (JP1/SW2) to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
-* For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
-* For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
-* The firmware is compiled with configuration options in the `platformio.ini` file to select Rev A or Rev B hardware.
-
+Apart from the ESP32-C3 module, IMU breakout board, battery connector and flash/debug jumper, all SMD components are on one side of the board. This is to facilitate automated PCB assembly. 
 
 ## Hardware
 
@@ -43,9 +21,22 @@ A previous revision (Rev A) of the hardware can be found in the releases section
 * 74HC240 used as push-pull piezo driver.
 * 1800mAH Li-Poly battery.
 * MCP73871 battery charger @ 500mA max, via USB-C connector.
-* Soft-switched power on/off
-* "No activity" timeout automatic power-off.
-* USB serial jtag programming and debug via USB-C interface. The flash/debug jumper can be a PCM12 SPDT slide switch SW2 on the bottom layer if you want access from outside the enclosure. Or you can solder a 2-pin 2.54mm pitch header with a jumper cap JP1 on the top layer. This is normally open for vario operation.
+* Soft-switched power on/off via SW3.
+* USB serial jtag programming and debug via USB-C interface. The flash/debug jumper can be a PCM12 SPDT slide switch (SW2) on the bottom layer if you want access from outside the enclosure. Or you can solder a 2-pin 2.54mm pitch header with a jumper cap (JP1) on the top layer. The jumper/switch is open for vario operation, shorted for flash/debug.
+
+## Schematic
+[Schematic PDF](docs/vhario-espc3-schematic.pdf)
+
+
+## Differences between Rev A and Rev B hardware
+* The Rev A archive can be found in the releases section.
+* Rev B is a Kicad 6 project (6.0.6 as of date). Rev A was unfortunately developed with the Kicad 6.99 development branch. This is incompatible with the Kicad 6 project file format. The Rev A project can only be opened with a Kicad 6.99 development build from 2022 Jan 26 or later.
+* Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a jumper or spdt switch (JP1/SW2) to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
+* For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
+* For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
+* The [firmware](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO) supports either Rev A or Rev B hardware. The configuration options are in the `platformio.ini` file.
+
+
 
 ## PCB Top
 <img src="docs/top.png">
