@@ -1,4 +1,550 @@
-20371867862006857
+20492975851057351
+0-swbtns
+Nidec_Copal_SH-7010A
+4-bit rotary coded switch, J-hook, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+0-swbtns
+Nidec_Copal_SH-7010B
+4-bit rotary coded switch, gull wing, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+6
+5
+0-swbtns
+Nidec_Copal_SH-7040B
+4-bit rotary coded switch, gull wing, Gray code, https://www.nidec-copal-electronics.com/e/catalog/switch/sh-7000.pdf
+rotary switch bcd
+0
+5
+5
+0-swbtns
+Panasonic_EVQPUJ_EVQPUA
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUJ EVQPUA
+0
+4
+2
+0-swbtns
+Panasonic_EVQPUK_EVQPUB
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUK EVQPUB
+0
+4
+2
+0-swbtns
+Panasonic_EVQPUL_EVQPUC
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUL EVQPUC
+0
+4
+2
+0-swbtns
+Panasonic_EVQPUM_EVQPUD
+http://industrial.panasonic.com/cdbs/www-data/pdf/ATV0000/ATV0000CE5.pdf
+SMD SMT SPST EVQPUM EVQPUD
+0
+4
+2
+0-swbtns
+SW_DIP_x1_W5.08mm_Slide_Copal_CHS-A
+1x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+2
+2
+0-swbtns
+SW_DIP_x1_W5.9mm_Slide_Copal_CVS
+1x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS
+DIP Switch Slide 5.9mm 232mil Copal_CVS
+0
+6
+3
+0-swbtns
+SW_DIP_x1_W7.62mm_Slide_Copal_CHS-B
+1x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+2
+2
+0-swbtns
+SW_DIP_x1_W8.61mm_Slide_LowProfile
+1x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+2
+2
+0-swbtns
+SW_DIP_x2_W5.08mm_Slide_Copal_CHS-A
+2x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+4
+4
+0-swbtns
+SW_DIP_x2_W5.9mm_Slide_Copal_CVS
+2x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS
+DIP Switch Slide 5.9mm 232mil Copal_CVS
+0
+8
+5
+0-swbtns
+SW_DIP_x2_W6.15mm_Slide_Omron_A6H
+2x-dip-switch, Slide, row spacing 6.15 mm (242 mils), Omron_A6H
+DIP Switch Slide 6.15mm 242mil Omron_A6H
+0
+4
+4
+0-swbtns
+SW_DIP_x2_W7.62mm_Slide_Copal_CHS-B
+2x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+4
+4
+0-swbtns
+SW_DIP_x2_W8.61mm_Slide_LowProfile
+2x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+4
+4
+0-swbtns
+SW_DIP_x3_W5.9mm_Slide_Copal_CVS
+3x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS
+DIP Switch Slide 5.9mm 232mil Copal_CVS
+0
+10
+7
+0-swbtns
+SW_DIP_x3_W8.61mm_Slide_LowProfile
+3x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+6
+6
+0-swbtns
+SW_DIP_x4_W5.08mm_Slide_Copal_CHS-A
+4x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+8
+8
+0-swbtns
+SW_DIP_x4_W5.9mm_Slide_Copal_CVS
+4x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS
+DIP Switch Slide 5.9mm 232mil Copal_CVS
+0
+12
+9
+0-swbtns
+SW_DIP_x4_W6.15mm_Slide_Omron_A6H
+4x-dip-switch, Slide, row spacing 6.15 mm (242 mils), Omron_A6H
+DIP Switch Slide 6.15mm 242mil Omron_A6H
+0
+8
+8
+0-swbtns
+SW_DIP_x4_W7.62mm_Slide_Copal_CHS-B
+4x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+8
+8
+0-swbtns
+SW_DIP_x4_W8.61mm_Slide_LowProfile
+4x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+8
+8
+0-swbtns
+SW_DIP_x5_W8.61mm_Slide_LowProfile
+5x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+10
+10
+0-swbtns
+SW_DIP_x6_W5.08mm_Slide_Copal_CHS-A
+6x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+12
+12
+0-swbtns
+SW_DIP_x6_W6.15mm_Slide_Omron_A6H
+6x-dip-switch, Slide, row spacing 6.15 mm (242 mils), Omron_A6H
+DIP Switch Slide 6.15mm 242mil Omron_A6H
+0
+12
+12
+0-swbtns
+SW_DIP_x6_W7.62mm_Slide_Copal_CHS-B
+6x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+12
+12
+0-swbtns
+SW_DIP_x6_W8.61mm_Slide_LowProfile
+6x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+12
+12
+0-swbtns
+SW_DIP_x7_W8.61mm_Slide_LowProfile
+7x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+14
+14
+0-swbtns
+SW_DIP_x8_W5.08mm_Slide_Copal_CHS-A
+8x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+16
+16
+0-swbtns
+SW_DIP_x8_W5.9mm_Slide_Copal_CVS
+8x-dip-switch, Slide, row spacing 5.9 mm (232 mils), Copal_CVS
+DIP Switch Slide 5.9mm 232mil Copal_CVS
+0
+20
+17
+0-swbtns
+SW_DIP_x8_W6.15mm_Slide_Omron_A6H
+8x-dip-switch, Slide, row spacing 6.15 mm (242 mils), Omron_A6H
+DIP Switch Slide 6.15mm 242mil Omron_A6H
+0
+16
+16
+0-swbtns
+SW_DIP_x8_W7.62mm_Slide_Copal_CHS-B
+8x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+16
+16
+0-swbtns
+SW_DIP_x8_W8.61mm_Slide_LowProfile
+8x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+16
+16
+0-swbtns
+SW_DIP_x9_W8.61mm_Slide_LowProfile
+9x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+18
+18
+0-swbtns
+SW_DIP_x10_W5.08mm_Slide_Copal_CHS-A
+10x-dip-switch, Slide, row spacing 5.08 mm (200 mils), Copal_CHS-A
+DIP Switch Slide 5.08mm 200mil Copal_CHS-A
+0
+20
+20
+0-swbtns
+SW_DIP_x10_W6.15mm_Slide_Omron_A6H
+10x-dip-switch, Slide, row spacing 6.15 mm (242 mils), Omron_A6H
+DIP Switch Slide 6.15mm 242mil Omron_A6H
+0
+20
+20
+0-swbtns
+SW_DIP_x10_W7.62mm_Slide_Copal_CHS-B
+10x-dip-switch, Slide, row spacing 7.62 mm (300 mils), Copal_CHS-B
+DIP Switch Slide 7.62mm 300mil Copal_CHS-B
+0
+20
+20
+0-swbtns
+SW_DIP_x10_W8.61mm_Slide_LowProfile
+10x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+20
+20
+0-swbtns
+SW_DIP_x11_W8.61mm_Slide_LowProfile
+11x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+22
+22
+0-swbtns
+SW_DIP_x12_W8.61mm_Slide_LowProfile
+12x-dip-switch, Slide, row spacing 8.61 mm (338 mils), SMD, LowProfile
+DIP Switch Slide 8.61mm 338mil SMD LowProfile
+0
+24
+24
+0-swbtns
+SW_MEC_5GSH9
+MEC 5G single pole normally-open tactile switch
+switch normally-open pushbutton push-button
+0
+4
+4
+0-swbtns
+SW_SP3T_PCM13
+Ultraminiature Surface Mount Slide Switch
+
+0
+8
+4
+0-swbtns
+SW_SPDT_CK-JS102011SAQN
+http://www.ckswitches.com/media/1422/js.pdf
+switch spdt
+0
+3
+3
+0-swbtns
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch
+
+0
+7
+3
+0-swbtns
+SW_SPST_B3S-1000
+Surface Mount Tactile Switch for High-Density Packaging
+Tactile Switch
+0
+4
+2
+0-swbtns
+SW_SPST_B3S-1100
+Surface Mount Tactile Switch for High-Density Packaging with Ground Terminal
+Tactile Switch
+0
+5
+3
+0-swbtns
+SW_SPST_B3SL-1002P
+Middle Stroke Tactile Switch, B3SL
+Middle Stroke Tactile Switch
+0
+4
+2
+0-swbtns
+SW_SPST_B3SL-1022P
+Middle Stroke Tactile Switch, B3SL
+Middle Stroke Tactile Switch
+0
+4
+2
+0-swbtns
+SW_SPST_B3U-1000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+0-swbtns
+SW_SPST_B3U-1000P-B
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, with Boss
+Tactile Switch
+0
+2
+2
+0-swbtns
+SW_SPST_B3U-1100P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, without Boss
+Tactile Switch
+0
+3
+3
+0-swbtns
+SW_SPST_B3U-1100P-B
+Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, with Ground Terminal, with Boss
+Tactile Switch
+0
+3
+3
+0-swbtns
+SW_SPST_B3U-3000P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, without Boss
+Tactile Switch
+0
+2
+2
+0-swbtns
+SW_SPST_B3U-3000P-B
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, without Ground Terminal, with Boss
+Tactile Switch
+0
+2
+2
+0-swbtns
+SW_SPST_B3U-3100P
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, without Boss
+Tactile Switch
+0
+3
+3
+0-swbtns
+SW_SPST_B3U-3100P-B
+Ultra-small-sized Tactile Switch with High Contact Reliability, Side-actuated Model, with Ground Terminal, with Boss
+Tactile Switch
+0
+3
+3
+0-swbtns
+SW_SPST_EVPBF
+Light Touch Switch
+
+0
+4
+2
+0-swbtns
+SW_SPST_EVQP0
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf
+
+0
+4
+2
+0-swbtns
+SW_SPST_EVQP2
+Light Touch Switch
+
+0
+4
+2
+0-swbtns
+SW_SPST_EVQP7A
+Light Touch Switch,https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE20.pdf
+
+0
+4
+2
+0-swbtns
+SW_SPST_EVQP7C
+Light Touch Switch
+
+0
+4
+2
+0-swbtns
+SW_SPST_EVQPE1
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE7.pdf
+
+0
+2
+2
+0-swbtns
+SW_SPST_EVQQ2
+Light Touch Switch, https://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE28.pdf
+
+0
+4
+2
+0-swbtns
+SW_SPST_FSMSM
+http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1437566-3&DocType=Customer+Drawing&DocLang=English
+SPST button tactile switch
+0
+2
+2
+0-swbtns
+SW_SPST_KMR2
+CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf
+tactile switch kmr2
+0
+4
+2
+0-swbtns
+SW_SPST_KMR2_GNDPad
+CK components KMR2 tactile switch with ground pin http://www.ckswitches.com/media/1479/kmr2.pdf
+tactile switch kmr2
+0
+5
+3
+0-swbtns
+SW_SPST_PTS645
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+0-swbtns
+SW_SPST_PTS810
+C&K Components, PTS 810 Series, Microminiature SMT Top Actuated, http://www.ckswitches.com/media/1476/pts810.pdf
+SPST Button Switch
+0
+4
+2
+0-swbtns
+SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08
+Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf
+SMD SMT SPST EVQPL EVQPT
+0
+6
+3
+0-swbtns
+SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A15
+Light Touch Switch, http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE3.pdf
+SMD SMT SPST EVQPL EVQPT
+0
+6
+3
+0-swbtns
+SW_SPST_REED_CT05-XXXX-G1
+Coto Technologies SPST Reed Switch CT05-XXXX-G1
+Coto Reed SPST Switch
+0
+2
+2
+0-swbtns
+SW_SPST_REED_CT05-XXXX-J1
+Coto Technologies SPST Reed Switch CT05-XXXX-J1
+Coto Reed SPST Switch
+0
+2
+2
+0-swbtns
+SW_SPST_REED_CT10-XXXX-G1
+Coto Technologies SPST Reed Switch CT10-XXXX-G1
+Coto Reed SPST Switch
+0
+2
+2
+0-swbtns
+SW_SPST_REED_CT10-XXXX-G2
+Coto Technologies SPST Reed Switch CT10-XXXX-G2
+Coto Reed SPST Switch
+0
+2
+2
+0-swbtns
+SW_SPST_REED_CT10-XXXX-G4
+Coto Technologies SPST Reed Switch CT10-XXXX-G4
+Coto Reed SPST Switch
+0
+2
+2
+0-swbtns
+SW_SPST_SKQG
+ALPS 5.2mm Square Low-profile TACT Switch (SMD), http://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKQG/SKQG.PDF
+SPST Button Switch
+0
+4
+2
+0-swbtns
+SW_SPST_TL3342
+Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
+SPST Tactile Switch
+0
+4
+2
 0-vhario-espc3
 C_0603_1608Metric_Pad1.08x0.95mm_HandSolder
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
@@ -77,6 +623,13 @@ mounting hole 2.5mm no annular
 0
 0
 0-vhario-espc3
+PinSocket_1x02_P2.54mm_Vertical
+Through hole straight socket strip, 1x02, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x02 2.54mm single row
+0
+2
+2
+0-vhario-espc3
 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -111,6 +664,13 @@ SSOP 0.65
 0
 20
 20
+0-vhario-espc3
+SW_SPDT_PCM12
+Ultraminiature Surface Mount Slide Switch
+
+0
+7
+3
 0-vhario-espc3
 cjmcu117
 

@@ -1,7 +1,5 @@
 # VhARIO-ESPC3
 
-The 'h' is silent, but the vario speaks ...
-
 Kicad 6 schematic and layout for ESP32-C3 + MPU9250 + MS5611 audio vario. 
 
 <img src="docs/layout.png">
@@ -32,7 +30,7 @@ A previous revision (Rev A) of the hardware can be found in the releases section
 
 ## Differences between Rev A and Rev B
 * Rev B is a Kicad 6 project (6.0.6 as of date). Rev A was unfortunately developed with the Kicad 6.99 development branch. This is incompatible with the Kicad 6 project file format. The Rev A project can only be opened with a Kicad 6.99 development build from 2022 Jan 26 or later.
-* Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a switchable jumper/spdt switch to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
+* Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a jumper or spdt switch (JP1/SW2) to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
 * For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
 * For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
 * The firmware is compiled with configuration options in the `platformio.ini` file to select Rev A or Rev B hardware.
@@ -47,7 +45,7 @@ A previous revision (Rev A) of the hardware can be found in the releases section
 * MCP73871 battery charger @ 500mA max, via USB-C connector.
 * Soft-switched power on/off
 * "No activity" timeout automatic power-off.
-* USB serial jtag programming and debug via USB-C interface. The flash/debug switch SW2 can be an SK12D07VG3 SPDT switch if you want access from outside the enclosure. Or you can solder a 2-pin or 3-pin 2.0mm pitch header with a jumper cap (normally open).
+* USB serial jtag programming and debug via USB-C interface. The flash/debug jumper can be a PCM12 SPDT slide switch SW2 on the bottom layer if you want access from outside the enclosure. Or you can solder a 2-pin 2.54mm pitch header with a jumper cap JP1 on the top layer. This is normally open for vario operation.
 
 ## PCB Top
 <img src="docs/top.png">
