@@ -12,7 +12,6 @@ ESP32-C3 flash and debug via built-in USB serial jtag peripheral and USB C inter
 
 All SMD passive components use Kicad hand-solderable footprints.
 
-Apart from the ESP32-C3 module, IMU breakout board, battery connector and flash/debug jumper, all SMD components are on one side of the board. This is to facilitate automated PCB assembly. 
 
 ## Hardware
 
@@ -32,7 +31,7 @@ Apart from the ESP32-C3 module, IMU breakout board, battery connector and flash/
 * The Rev A archive can be found in the releases section.
 * Rev B is a Kicad 6 project (6.0.6 as of date). Rev A was unfortunately developed with the Kicad 6.99 development branch. This is incompatible with the Kicad 6 project file format. The Rev A project can only be opened with a Kicad 6.99 development build from 2022 Jan 26 or later.
 * Flash and debug in Rev B uses the ESP32-C3 built-in USB serial jtag peripheral with a jumper or spdt switch (JP1/SW2) to facilitate flashing. For Rev A hardware, an external USB-UART adapter and jumper/switch is required for flash and debug. 
-* For Rev B, all smd components except for a couple of modules have been placed on one side to facilitate automated pcb assembly.
+* For Rev B, all smd components except for a couple of modules have been placed on one side of the PCB to facilitate automated assembly.
 * For Rev B, the power/bluetooth LED and charging status LED are placed together so only a single enclosure LED window is required.
 * The [firmware](https://github.com/har-in-air/ESP32C3_BLUETOOTH_AUDIO_VARIO) supports either Rev A or Rev B hardware. The configuration options are in the `platformio.ini` file.
 
