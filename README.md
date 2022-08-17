@@ -41,9 +41,11 @@ All component symbols and footprints used in the project are in project-specific
 
 ## PCB Top
 <img src="docs/top.png">
+<img src="docs/board_top.jpg">
 
 ## PCB Bottom
 <img src="docs/bottom.png">
+<img src="docs/board_bot.jpg">
 
 # Credits
 
