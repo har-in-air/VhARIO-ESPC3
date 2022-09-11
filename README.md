@@ -39,13 +39,14 @@ All component symbols and footprints used in the project are in project-specific
 
 
 
-## PCB Top
+## Kicad 3D view
 <img src="docs/top.png">
-<img src="docs/board_top.jpg">
-
-## PCB Bottom
 <img src="docs/bottom.png">
-<img src="docs/board_bot.jpg">
+
+## Assembly
+<img src="docs/RevB_full_assembly.jpg">
+<img src="docs/RevB_battery_glued.jpg">
+<img src="docs/RevB_powered_on.jpg">
 
 # Credits
 
